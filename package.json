@@ -1,0 +1,26 @@
+{
+  "name": "burgerapp",
+  "version": "1.0.0",
+  "description": "This app allows user to input burger and devour it",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fridayfred3p/BurgerApp.git"
+  },
+  "keywords": [
+    "[\"handlebars\"",
+    "\"ORM\"",
+    "\"MVC",
+    "design\"",
+    "\"express\"]"
+  ],
+  "author": "Timothy Peterson <fridayfred3p@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fridayfred3p/BurgerApp/issues"
+  },
+  "homepage": "https://github.com/fridayfred3p/BurgerApp#readme"
+}
