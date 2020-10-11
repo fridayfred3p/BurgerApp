@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/fridayfred3p/BurgerApp/issues"
   },
-  "homepage": "https://github.com/fridayfred3p/BurgerApp#readme"
+  "homepage": "https://github.com/fridayfred3p/BurgerApp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
