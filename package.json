@@ -2,7 +2,7 @@
   "name": "burgerapp",
   "version": "1.0.0",
   "description": "This app allows user to input burger and devour it",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "npm run test"
   },
